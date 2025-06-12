@@ -1,5 +1,5 @@
 pyrogram
 tgcrypto
-yt-dlp
-python-dotenv
+aiohttp
+requests
 
